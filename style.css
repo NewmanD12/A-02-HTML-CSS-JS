@@ -1,0 +1,29 @@
+#header {
+    display: flex;
+    justify-content: space-between;
+    background-color: red;
+    padding: 0 4%;
+}
+
+#main-body {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 5%;
+    align-items: center;
+}
+
+#logo {
+    font-weight: bold;
+}
+
+#star-rating{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+
+img {
+    width: 10%;
+    margin: 2%;
+}
